@@ -22,4 +22,4 @@
 
 ### 🔗 深度分析
 关于原论文的详细原理解读与架构分析，欢迎阅读本人的知乎文章：
-👉 [**深度解析 LongCat-Flash-Lite：为何 Scaling Embeddings 优于 Scaling Experts**](https://zhuanlan.zhihu.com/p/2001437269136020420)
+👉 [**《Scaling Embeddings Outperforms Scaling Experts in Language Models》：扩大Embedding规模优于扩大专家规模**](https://zhuanlan.zhihu.com/p/2001437269136020420)
