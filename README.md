@@ -1,4 +1,4 @@
-# LongCat-Flash-Lite 概念实现 (PyTorch)
+# LongCat: N-gram Embedding 概念实现 (PyTorch)
 
 > ⚠️ **声明**：此代码为个人非官方实现，仅供学习与研究参考。
 
