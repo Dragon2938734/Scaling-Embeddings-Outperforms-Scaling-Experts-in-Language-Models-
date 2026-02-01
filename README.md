@@ -2,7 +2,7 @@
 
 > ⚠️ **声明**：此代码为个人非官方实现，仅供学习与研究参考。
 
-本项目实现了论文 [**Scaling Embeddings Outperforms Scaling Experts in Language Models (arXiv:2601.21204)**](https://arxiv.org/abs/2601.21204) 中提出的 **LongCat-Flash-Lite** 架构核心概念。
+本项目实现了论文 [**Scaling Embeddings Outperforms Scaling Experts in Language Models (arXiv:2601.21204)**](https://arxiv.org/abs/2601.21204) 中提出的 **LongCat: N-gram Embedding** 架构核心概念。
 
 ### 📌 核心说明
 原论文中提出的模型包含高达 **30B 参数的 Embedding 表**，这在普通单机 GPU 上无法直接完整初始化（通常需要数百 GB 显存）。因此，本代码对**词表大小进行了缩减**以便于演示和调试，旨在重点复现和展示以下核心创新点：
